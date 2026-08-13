@@ -1,6 +1,6 @@
 # 👋 Hi, This is Metehan!
 
-## 🚀 Cloud | DevOps Architect | Azure Platform Engineer
+## 🚀 Cloud & DevOps Architect | Azure Platform Engineer
 I bridge the gap between complex Cloud Infrastructures and practical Engineering solutions. With 12+ years of expertise in **Microsoft Azure** and modern infrastructure automation.
 
 ## 💻 What I Do
@@ -12,9 +12,10 @@ I bridge the gap between complex Cloud Infrastructures and practical Engineering
 ## 🎯 Currently Working On
 Platform Landing Zone Architecture | DevOps Transformations | Enterprise Azure Migrations
 
----
-
 ## 🐱 Personal Life
 I'm a proud cat person and living with my feline companion — **Oğlum**! 📸[Oğlum the Cat](https://bolat.dev/oglum.jpg)
 
 When I'm not engineering, you'll find me sailing 🌊, camping 🏕️, horse riding 🐴, or enjoying good food with friends.
+
+## Contact
+I am active on LinkedIn. Let's meet and exchange some ideas!
