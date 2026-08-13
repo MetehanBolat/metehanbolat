@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Metehan!
+# 👋 Hi, This is Metehan!
 
-## 🚀 Cloud Architect | Solutions Architect | DevOps Specialist
+## 🚀 Cloud | DevOps Architect | Azure Platform Engineer
 I bridge the gap between complex Cloud Infrastructures and practical Engineering solutions. With 12+ years of expertise in **Microsoft Azure** and modern infrastructure automation.
 
 ## 💻 What I Do
