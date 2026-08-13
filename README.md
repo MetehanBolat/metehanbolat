@@ -15,7 +15,6 @@ Platform Landing Zone Architecture | DevOps Transformations | Enterprise Azure M
 ---
 
 ## 🐱 Personal Life
-I'm a proud cat person and living with my feline companion — **Oğlum**! 📸
-![Oğlum the Cat](https://bolat.dev/oglum.jpg)
+I'm a proud cat person and living with my feline companion — **Oğlum**! 📸[Oğlum the Cat](https://bolat.dev/oglum.jpg)
 
 When I'm not engineering, you'll find me sailing 🌊, camping 🏕️, horse riding 🐴, or enjoying good food with friends.
